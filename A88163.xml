@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Conference with the souldiers. Or, a parley with the party of horse, which with drawn drawn [sic] sword, entered the sessions at Mr. John Lilburn's trial.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88163</idno>
+            <idno type="STC">Wing L2089A</idno>
+            <idno type="STC">Thomason E705_25</idno>
+            <idno type="STC">ESTC R207116</idno>
+            <idno type="EEBO-CITATION">99866187</idno>
+            <idno type="PROQUEST">99866187</idno>
+            <idno type="VID">166626</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88163)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166626)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 109:E705[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Conference with the souldiers. Or, a parley with the party of horse, which with drawn drawn [sic] sword, entered the sessions at Mr. John Lilburn's trial.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "July. 18. 1653.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:166626:1" rendition="simple:additions"/>
+            <head>A Conference with the Souldiers.</head>
+            <head>
+               <hi>OR,</hi> A Parley with the Party of Horſe, which with drawn drawn ſword, entred the Seſſions at Mr. <hi>John Lilburn's</hi> Trial.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>WHat are you? Are you Engliſh-men, and true Engliſh ſouldiers raiſed <hi>for maintenance and defence of the ancient Rights and Liberties of Eng<g ref="char:EOLhyphen"/>land,</hi> [the chiefeſt whereof are peaceable, free, and unforcible <hi>legal Trials,</hi> for mens lives and eſtates] if you are ſuch [as you ought to be] how is it that as a party of armed ſouldiers you enter the place and legal Courts of Juſtice, with horſe and ſwords drawn, and in the very face thereof, cuting, beating, haling by the hair of the head and tram<g ref="char:EOLhyphen"/>pling upon the people peaceably there, as is their right, to ſee that all men have juſtice come them.</p>
+            <p>Can you imagine that in ſo doing you do not over-aw, af<g ref="char:EOLhyphen"/>fright, and terrifie the Jury men preſent? and, in effect, tel them Mr. <hi>Lilburn's</hi> blond muſt now be had, and that right or wrong they muſt find him guilty: But, dear friends, what is this ye do? Was ever ſuch a thing done in the late Tyrants time? Nay, when in any time was the like violation of the <hi>liberties of Eng<g ref="char:EOLhyphen"/>land?</hi>
+            </p>
+            <p>And what is it moves you thus to do, in his caſe, more then in all others? Is it becauſe you are commanded ſo to do? Think you that will ſuffice to juſtifie your actions at the Day of judg<g ref="char:EOLhyphen"/>ment before the moſt juſt and Al-ſeeing God? who hath made you men, furniſhed with judgments and conſciences, a<g ref="char:EOLhyphen"/>ble to diſtinguiſh between good and evil; and not <hi>beasts</hi> to rend and tear, fetch and carry, terrifie and affright, kill and deſtroy, without demanding a cauſe, or making ſome ſcruple for conſci<g ref="char:EOLhyphen"/>ence ſake Make you no difference between enemies in Armes, or in open Hoſtility, and peaceable people, when you are com<g ref="char:EOLhyphen"/>manded? <hi>The</hi> Lord <hi>work upon your hearts.</hi>
+            </p>
+            <pb n="2" facs="tcp:166626:2"/>
+            <p>You would be offended any ſhould ſay you are not Chriſtians: Chriſt<g ref="char:EOLhyphen"/>ians judge nothing before the time: you, by this your violent appear<g ref="char:EOLhyphen"/>ance, doom him to death, before any thing is legally proved againſt him: whereas Chriſtians, in doubtful caſes, ought to judge the beſt; and all things, before proof, are to be eſteemed at leaſt doubtful.</p>
+            <p>But you judge, poſſibly, as you are told by ſome who thirſt after his blood, that his crimes are notorious and evident: Good chriſtian ſoul<g ref="char:EOLhyphen"/>diers be not deluded; nor delude your ſelves; for you cannot but know, that the worſt the Parliament laid to his charge, was no more, but that he had ſcand<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lized S<hi rend="sup">r</hi> 
+               <hi>Arthur Haſlerig,</hi> and the Committee of Haberdaſh<g ref="char:EOLhyphen"/>ers Hall; and publiſhed a Petition (offered to the Houſe) before they had read it: And for this, mark how they ſenten'd him (for its your own caſe) they fine him more than twice his eſtate; <hi>to wit,</hi> 7000 pounds, baniſh him for ever, and enact him to die as a <hi>Fellon,</hi> without benefit of Clergy, if he returned: This was their Judgment; and no marvel: for his Adverſaries were his Judges; and this without once hearing what he could ſay in his own defence; ſo haſty were they to be rid of him and cauſe they had: for had he ſtaid, he was like enough to prove thoſe things called Scandals, real Truths, to the hazard of S<hi rend="sup">r</hi> 
+               <hi>Arthur's</hi> new-gotten huge Eſtate, and to the laying open the foulneſs of ſome of the Committee; and which yet fearing he may live to effect, is now one main cauſe his life is ſo violently perſued.</p>
+            <p>You have heard much of the unrighteous Judgments of the Councel Table, High Commiſſion, and Star-Chamber; but never in the worſt of their Times was the like unto this: And are all thoſe Courts juſtly thrown down? And have you and your Officers routed the Parliament, that made this moſt cruel Judgment, and Act; and can you now thus violently appear to juſtifie his Trial thereupon, in ſuch ſort, as if you would force them to finde him guilty: And in ſo doing, do ye not draw his innocent blood upon you; yea, though the Jury ſhould acquit him, as, if they have any conſcience or fear of God in them, they muſt do, and no doubt will; as fearing him that can kill the ſoul, more then you (that would your conſcience permit you) can onely kill the body.</p>
+            <p>But it is to be doubted, there are other matters that raiſe your hatred againſt Mr. <hi>Lilburn;</hi> for a certain libellous book hath been officiouſly diſpierſed and read to and amongſt you and the reſt of the Army, inti<g ref="char:EOLhyphen"/>mating, That Mr. <hi>Lilburn</hi> hath been tampering to bring in <hi>Charls Stuart;</hi> and this (the more effectually to deceive you) under the Ouches or di<g ref="char:EOLhyphen"/>vers
+<pb n="3" facs="tcp:166626:2"/>Witneſſes. But, dear friends, in this alſo you are not to be haſty in belief; for you know the like was publiſhed before his Tryal at Guild-Hall, by the Councel of State, to inrage the Souldiery and honeſt par<g ref="char:EOLhyphen"/>ty againſt him, and not one word proved true: So when you ſhall underſtand what wretched perjured Creatures thoſe Witneſſes are (men<g ref="char:EOLhyphen"/>tioned in that book) you will grieve at the horrid wickedneſſe of ſuch devilliſh ſtratagems: Beſides, a perſon of unqueſtionable credit with the chief of your Army, hearing of the miſchievous ſlander of Mr. <hi>Lilburn,</hi> hath offered, and is ready at all times, to depoſe upon oath, that during Mr. <hi>Lilburn's</hi> reſiding beyond ſeas, and ſince the War with Holland, he had the beſt and trueſt Intelligence of all proceedings there, from him, and moſt advantagious for the State of England; Which Mr. <hi>Lilburn</hi> certainly had never done, if he had had any deſign for <hi>Charles Stuart:</hi> But if you believe thoſe falſe aſperſions, onely ſo long as that through your paſſion and violence you ſhall occaſion his deſtruction, his deadly enemies by you obtain their bloody deſires, and you contract matter of ſad repentance for ever.</p>
+            <p>The holy Scriptures Rule to Souldiers, is, that they accuſe no man falſly; but to act violently, or earneſtly, upon a Report, is no leſſe in Gods ſight.</p>
+            <p>They are alſo to offer violence to no man; much leſſe to a priſoner: towards whom, the very Heathen Souldiers, in <hi>Paul</hi>'s Caſe, have left you, and all Chriſtian Souldiers, a great example of care and tenderneſſe.</p>
+            <p>On therefore! be not worſe then Romans unto him; Be not like Danes or Normans to the People, and Courts of Juſtice: Be not like men who have made ſhip wrack of all good Conſcience: But be unto all in all your demeanour as becommeth Chriſtians; full of Mercy; full of Compaſſion: And ceaſe not to perſwade with your Commanders, to finde you Employment more agreeable to your Underſtandings and Conſciences; it being in all Caſes more ſafe to obey GOD rather then MAN.</p>
+            <div type="to_the_reader">
+               <head>The Publiſher to the Reader.</head>
+               <p>COuntryman, I pray thee take notice of two things in this place; firſt that thoſe lying and falſe informations lately publiſhed againſt Mr. <hi>Lilburn</hi> are printed for or by the councel of States-Printers, or Book<g ref="char:EOLhyphen"/>ſellers, <hi>viz. H. Hills, G. Calvert,</hi> and <hi>T. Brewſter,</hi> and ſo in reaſon may be judged to be Printed by the authority of the Councel of State them<g ref="char:EOLhyphen"/>ſelves
+<pb n="4" facs="tcp:166626:3"/>or by the Authority of their Supream Lord, Maſter, and Creator the General.</p>
+               <p n="2">2<hi rend="sup">d</hi>ly. I pray thee obſerve the perſons from whom thoſe informations or depoſitions came; firſt from one <hi>Iſaac Burkinhead</hi> alias <hi>Rogers,</hi> as he na<g ref="char:EOLhyphen"/>med himſelf beyond the ſeas, a moſt prophane, deboiſt, drunken Rogue, who in his converſation beyond the ſeas to delude the Cavaliers, and to make them believe he was really as they were, in his cups made no ſcru<g ref="char:EOLhyphen"/>ple, as ſom of his own comrades have credibly reported, to take a glaſs of beer or wine, and in their preſence to drink it, &amp; wiſh that might be his poiſon if he were directly or indirectly an Agent, Intelligencer, or Well-wiſher to the Parliament of England, the Councel of State, the Gene<g ref="char:EOLhyphen"/>ral, or M<hi rend="sup">r</hi> 
+                  <hi>Scot</hi> or any appertaining to them, or that wiſhed them well.</p>
+               <p>The ſecond perſon named as informer is Captain <hi>John Titus,</hi> a man of ſo vicious a life in his Cavalier way, for whoring, drinking, ſwearing, and for-ſwearing, as the world hath ſcarce his fellow, whoſe ſeveral per<g ref="char:EOLhyphen"/>juries upon Judicial Records in England, are ſaid by ſome of his own kindred not to be a few.</p>
+               <p>The third witneſſe, is one Capt. <hi>John Bartley,</hi> an Iriſhman or Rebel, and a grand Traitor and Pyrot for the late E of Derby, and who, as be<g ref="char:EOLhyphen"/>yond ſea he averred, could not be permitted in England to live, and who had no way to preſerve himſelf, his wife, and children from ſtarving be<g ref="char:EOLhyphen"/>yond ſea, but to combine with M<hi rend="sup">r</hi> 
+                  <hi>Lilburns</hi> great adverſaries and their Agents, to do as wickedly to M<hi rend="sup">r</hi> 
+                  <hi>Lilburn</hi> as he hath done.</p>
+               <p>The fourth witneſſe is one <hi>Rich. Foot,</hi> a young delboiſt, wicked, and prophane rogue, that robbed and ſtole from his brother, who lives near Blackwell-Hall, betwixt 2 and 3 hundred pound in gold, and run a<g ref="char:EOLhyphen"/>way beyond ſea with it, of a great part of which he being checked of by one <hi>Harbin,</hi> or the like name, M<hi rend="sup">r</hi> 
+                  <hi>Lilburn</hi> out of his reſpect to one Col. <hi>Gamet,</hi> and M<hi rend="sup">r</hi> 
+                  <hi>Ralph Parker,</hi> did the beſt he could to aſſiſt them in getting ſome part of it again, and did, but alwaies ſcorned to diſcourſe with ſuch a thief and rogue as the ſaid <hi>Foot</hi> upon State-affairs.</p>
+               <p>The fifth witneſſe againſt M<hi rend="sup">r</hi> 
+                  <hi>Lilburn</hi> is one <hi>Staple-Hill,</hi> which the pub<g ref="char:EOLhyphen"/>liſher knows not; but in M<hi rend="sup">r</hi> 
+                  <hi>Lilburns</hi> name and behalf earneſtly deſires as much liberty to publiſh a full and abſolute anſwer to thoſe moſt falſe, lying, baſe, roguiſh Cavalier informations, as there was given to the ſellers thereof, and then ſhall leave himſelf to the honeſt judgement of the Reader, to conſider whether are baſer follows, M<hi rend="sup">r</hi> 
+                  <hi>Lilburn,</hi> or his mighty and great adverſaries, that imploy ſuch notorious known rogues to tell lies and falſe-hoods on purpoſe to deſtroy the innocent.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
